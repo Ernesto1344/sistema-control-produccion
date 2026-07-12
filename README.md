@@ -17,9 +17,9 @@ Se construyó un flujo de datos de tres capas:
 
 ```
 ┌─────────────────┐      ┌──────────────────┐      ┌───────────────────┐
-│   APPSHEET       │      │  GOOGLE SHEETS     │      │  LOOKER STUDIO      │
-│  (captura móvil  │ ───► │  (base de datos    │ ───► │  (dashboards        │
-│   en planta)     │      │   centralizada)    │      │   gerenciales)      │
+│   APPSHEET      │      │  GOOGLE SHEETS   │      │  LOOKER STUDIO    │
+│  (captura móvil │ ───► │  (base de datos  │ ───► │  (dashboards      │
+│   en planta)    │      │   centralizada)  │      │   gerenciales)    │
 └─────────────────┘      └──────────────────┘      └───────────────────┘
 ```
 
