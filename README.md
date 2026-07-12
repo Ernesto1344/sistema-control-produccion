@@ -18,8 +18,8 @@ Se construyó un flujo de datos de tres capas:
 ```
 ┌─────────────────┐      ┌──────────────────┐      ┌───────────────────┐
 │   APPSHEET       │      │  GOOGLE SHEETS     │      │  LOOKER STUDIO      │
-│  (captura móvil  │ ───► │  (base de datos    │ ───► │  (dashboards         │
-│   en planta)     │      │   centralizada)    │      │   gerenciales)       │
+│  (captura móvil  │ ───► │  (base de datos    │ ───► │  (dashboards        │
+│   en planta)     │      │   centralizada)    │      │   gerenciales)      │
 └─────────────────┘      └──────────────────┘      └───────────────────┘
 ```
 
@@ -37,8 +37,6 @@ Ver documentación técnica completa en [`FUNCIONAMIENTO.md`](./FUNCIONAMIENTO.m
 | **Producción — Órdenes de Corte** | Detalle de metros cuadrados (M2) producidos por orden y producto, con tabla dinámica y filtros. |
 | **Producción — Registros de Fabricación** | Trazabilidad por operación, operario y máquina, con tiempos de inicio/fin. |
 | **Dashboard Gerencial** | Costo de mano de obra por operación/operario y costo de insumo (tela) por orden de corte, en COP. |
-
-*(Capturas de pantalla en la carpeta [`/screenshots`](./screenshots))*
 
 ## Stack técnico
 
@@ -58,4 +56,3 @@ Ver documentación técnica completa en [`FUNCIONAMIENTO.md`](./FUNCIONAMIENTO.m
 Ernesto De la Parra — Ingeniero Civil especializado en gestión de proyectos y presupuestos de construcción, con habilidades complementarias en analítica de datos y automatización (SQL, Power BI, Looker Studio, AppSheet, Make).
 
 - LinkedIn: [linkedin.com/in/ernesto-de-la-parra-67a4001a2](https://linkedin.com/in/ernesto-de-la-parra-67a4001a2)
-- Email: ernestodelaparra38@gmail.com
